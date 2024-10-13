@@ -1,4 +1,4 @@
-## Password Pwned Check - SHA-1 Encryption & Data Breach Validation
+## Password Pwned Check - Data Breach Validation
 
 This web application allows users to securely check if their password has been compromised in any known data breaches. Using SHA-1 encryption, the entered password is hashed and verified against the [Pwned Passwords](https://haveibeenpwned.com/Passwords) API, ensuring that user passwords remain secure and are never exposed.
 
